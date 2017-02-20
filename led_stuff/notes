@@ -1,0 +1,8 @@
+2/19/17
+getting ready to try my RGB quaternion slerp idea. downloaded new transformations.py from gohlke.
+it has a slerp command now. very convenient.
+set up a git repository for the project. 
+spent some time messing with python process control... not worth the effort. just remember
+to launch fadecandy server with
+sudo nohup ~/fadecandy/server/fcserver & 
+and then safely forget about it.

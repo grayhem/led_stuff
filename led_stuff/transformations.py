@@ -200,7 +200,7 @@ import math
 import numpy
 
 __version__ = '2017.02.17'
-__docformat__ = 'restructuredtext en'
+# __docformat__ = 'restructuredtext en'
 __all__ = ()
 
 
